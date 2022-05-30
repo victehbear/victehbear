@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @victehbear
 - 👀 I’m interested in tools used payment solutions & blockchain .
-- 🌱 I’m currently learning rust , native & brushing up my javascript to be good at UI/UX.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently brushing up my javascript to be good at UI/UX.
 - 📫 How to reach me on twitter @VicTehBear
 
 <!---
